@@ -1,5 +1,5 @@
-﻿using Forca.Controller;
-using Forca.Model;
+﻿using Hangman.Controller;
+using Hangman.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,7 +15,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Forca.View
+namespace Hangman.View
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
