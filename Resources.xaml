@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <!--Image Resources-->
+    
+    <BitmapImage x:Key="0hp" UriSource="/Resources/0hp.png"/>
+    <BitmapImage x:Key="1hp" UriSource="/Resources/1hp.jpg"/>
+    <BitmapImage x:Key="2hp" UriSource="/Resources/2hp.jpg"/>
+    <BitmapImage x:Key="3hp" UriSource="/Resources/3hp.jpg"/>
+    <BitmapImage x:Key="4hp" UriSource="/Resources/4hp.jpg"/>
+    <BitmapImage x:Key="5hp" UriSource="/Resources/5hp.jpg"/>
+
+
+</ResourceDictionary>
