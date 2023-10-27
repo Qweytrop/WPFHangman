@@ -1,11 +1,11 @@
-﻿using Forca.IO;
+﻿using Hangman.IO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Forca.Repository
+namespace Hangman.Repository
 {
     class WordRepository
     {

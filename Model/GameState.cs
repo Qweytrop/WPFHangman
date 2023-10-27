@@ -8,7 +8,7 @@ using System.Windows.Automation;
 using System.Windows.Controls;
 using System.Windows.Media;
 
-namespace Forca.Model
+namespace Hangman.Model
 {
     public class GameState
     {
@@ -16,12 +16,6 @@ namespace Forca.Model
         public string VeiledWord { get; private set; }
 
         public bool IsAlive { get { return Health > 0; } }
-        
-        /*
-        public bool IsAlive2 => Health > 0;
-
-        public bool IsAlive3 { get => Health>0; }
-        */
 
         public int Health { get; set; }
 

@@ -1,5 +1,5 @@
-﻿using Forca.Model;
-using Forca.Repository;
+﻿using Hangman.Model;
+using Hangman.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Navigation;
 
-namespace Forca.Controller
+namespace Hangman.Controller
 {
     public class GameController
     {
